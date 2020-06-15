@@ -1,5 +1,5 @@
 'use strict';
-
+/* eslint-disable */
 const calendar = document.querySelector('#calendar');
 
 function calendarTable(year, month, element) {
